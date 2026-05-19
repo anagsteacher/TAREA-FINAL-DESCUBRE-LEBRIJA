@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260519205342S9Y7GJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260519205342WPSERS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>DESCUBRIENDO LEBRIJA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Galán Silva</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado deberá crear como producto final un tríptico con la información de Lebrija.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: cc0 1.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/publicdomain/zero/1.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779214402103</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movn0qrn-1gb8e14tx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movn0qrn-1gb8e14tx</odePageId>
+      <odeBlockId>block-1777996929940-vgzil8bv9</odeBlockId>
+      <blockName>¿Conoces tu ciudad?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movn0qrn-1gb8e14tx</odePageId>
+          <odeBlockId>block-1777996929940-vgzil8bv9</odeBlockId>
+          <odeIdeviceId>idevice-1777996929937-x09ya76wy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30 MINUTOS</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>GRUPOS DE 4</dd></div></dl><p><iframe width="300" height="150" src="https://www.youtube.com/embed/E67HBnBc-B0?t=5s" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Los alumnos deberán ver el vídeo donde conocerán más de su entorno, para ello también usarán las diapositivas de canva con la información más relevante .<a href="https://canva.link/los8q7xo638owtp" title="¿Conoces tu ciudad?">https://canva.link/los8q7xo638owtp</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996929937-x09ya76wy","textInfoDurationInput":"30 MINUTOS","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"GRUPOS DE 4","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30 MINUTOS</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>GRUPOS DE 4</dd></div></dl><p><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/E67HBnBc-B0?t=5s\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Los alumnos deberán ver el vídeo donde conocerán más de su entorno, para ello también usarán las diapositivas de canva con la información más relevante .<a href=\"https://canva.link/los8q7xo638owtp\" title=\"¿Conoces tu ciudad?\">https://canva.link/los8q7xo638owtp</a></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Los alumnos deberán ver el vídeo donde conocerán más de su entorno, para ello también usarán las diapositivas de canva con la información más relevante .<a href=\"https://canva.link/los8q7xo638owtp\" title=\"¿Conoces tu ciudad?\">https://canva.link/los8q7xo638owtp</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movn0qrt-8d6ymde8g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movn0qrt-8d6ymde8g</odePageId>
+      <odeBlockId>block-1777997330864-3ppeyckpe</odeBlockId>
+      <blockName>INFOGRAFÍA PROTECIÓN DE DATOS Y DERECHOS DIGITALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movn0qrt-8d6ymde8g</odePageId>
+          <odeBlockId>block-1777997330864-3ppeyckpe</odeBlockId>
+          <odeIdeviceId>idevice-1777997330863-1bg28y7pj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777997330863-1bg28y7pj" title="" href="{{context_path}}/content/resources/Ana Galán Silva.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ana Galán Silva.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997330863-1bg28y7pj","img_0":{"img":"{{context_path}}/content/resources/Ana Galán Silva.png","thumbnail":"{{context_path}}/content/resources/Ana Galán Silva.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movn0qrv-e7p7tzcaa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movn0qrv-e7p7tzcaa</odePageId>
+      <odeBlockId>block-1778166907646-wikyuuuij</odeBlockId>
+      <blockName>CREA UN TRÍPTICO O CARTEL DE TU CIUDAD COMO SI FUERAS UN GUÍA TURÍSTICO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movn0qrv-e7p7tzcaa</odePageId>
+          <odeBlockId>block-1778166907646-wikyuuuij</odeBlockId>
+          <odeIdeviceId>idevice-1778166907634-tq4he415y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descripción general del proyecto</p>
+<p>El alumnado utilizará los ordenadores para buscar información e imágenes sobre Lebrija y, posteriormente, elaborará en Canva un producto digital visual, como una presentación, una infografía o un cartel.</p>
+<p>Con esta actividad se pretende que aprendan a:</p>
+<p>conocer mejor su localidad,<br />buscar información de forma guiada,<br />seleccionar ideas importantes,<br />organizar contenidos de manera visual,<br />trabajar en equipo,<br />utilizar herramientas digitales con una finalidad educativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166907634-tq4he415y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descripción general del proyecto</p>\n<p>El alumnado utilizará los ordenadores para buscar información e imágenes sobre Lebrija y, posteriormente, elaborará en Canva un producto digital visual, como una presentación, una infografía o un cartel.</p>\n<p>Con esta actividad se pretende que aprendan a:</p>\n<p>conocer mejor su localidad,<br />buscar información de forma guiada,<br />seleccionar ideas importantes,<br />organizar contenidos de manera visual,<br />trabajar en equipo,<br />utilizar herramientas digitales con una finalidad educativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movn0qrv-e7p7tzcaa</odePageId>
+      <odeBlockId>block-1778166973488-adnydintl</odeBlockId>
+      <blockName>INSTRUCIONES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movn0qrv-e7p7tzcaa</odePageId>
+          <odeBlockId>block-1778166973488-adnydintl</odeBlockId>
+          <odeIdeviceId>idevice-1778166973485-q1sdfk1eh</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778166973485-q1sdfk1eh" data-evaluationb="false" data-evaluationid="8d00253a-2c32-485b-a763-92039c73dbd6"></div>
+            <div id="frmMainContainer-idevice-1778166973485-q1sdfk1eh" class="form-IDevice" data-id="idevice-1778166973485-q1sdfk1eh">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Instrucciones para hacer un tríptico en Canva<br />1. Entra en Canva<br />Accede a Canva e inicia sesión con tu cuenta. Después, en la barra de búsqueda, escribe: “tríptico”, “folleto tríptico” o “brochure tríptico”. Canva ofrece plantillas editables para crear folletos y trípticos de forma sencilla.</p>
+<p>2. Elige una plantilla<br />Selecciona una plantilla que tenga formato de tríptico. Lo ideal es que sea un diseño en A4 horizontal, ya que el tríptico suele dividir una hoja en tres partes. Según Canva, el tamaño habitual de un tríptico es un A4 de 21 x 29,7 cm, dividido en tres columnas.</p>
+<p>3. Organiza las seis partes del tríptico<br />Un tríptico tiene seis caras: tres por delante y tres por detrás.</p>
+<p>Parte exterior<br />Aquí se colocan normalmente:</p>
+<p>Parte<br />Contenido recomendado<br />Portada<br />Título del trabajo, imagen principal y nombre del alumno/a<br />Solapa<br />Frase llamativa, curiosidad o pequeña introducción<br />Contraportada<br />Nombre, curso, fecha, fuentes consultadas o contacto<br />Parte interior<br />Aquí se desarrolla la información principal:</p>
+<p>Parte<br />Contenido recomendado<br />Interior 1<br />Introducción del tema<br />Interior 2<br />Información principal<br />Interior 3<br />Conclusión, propuesta final o resumen<br />4. Cambia los textos<br />Haz clic sobre los textos de la plantilla y sustitúyelos por tu propia información. Es importante escribir con frases breves, claras y ordenadas. Un tríptico no debe estar lleno de texto; debe ser visual y fácil de leer.</p>
+<p>5. Añade imágenes e iconos<br />Puedes añadir imágenes desde el apartado Elementos, Fotos o Subidos. Si tienes imágenes propias, súbelas desde tu ordenador o tablet. Canva permite arrastrar imágenes y elementos directamente al diseño.</p>
+<p>6. Cuida el diseño<br />Para que el tríptico quede bien presentado:</p>
+<p>Usa 2 o 3 colores como máximo.<br />Utiliza una letra clara.<br />No pongas demasiado texto.<br />Deja espacios en blanco.<br />Asegúrate de que las imágenes tengan buena calidad.<br />Revisa que no haya faltas de ortografía.<br />Canva recomienda dejar espacio libre para que el diseño “respire” y no resulte demasiado cargado.</p>
+<p>7. Revisa el trabajo<br />Antes de terminar, comprueba que el tríptico incluye:</p>
+<p>Elemento<br />Sí/No<br />Título claro<br /> <br />Nombre del alumno/a<br /> <br />Información bien organizada<br /> <br />Imágenes relacionadas con el tema<br /> <br />Ortografía revisada<br /> <br />Diseño limpio y ordenado<br /> <br />Fuentes de información consultadas<br /> <br />8. Descarga el tríptico<br />Cuando hayas terminado, pulsa en Compartir y después en Descargar. Elige el formato PDF para imprimir si lo vas a entregar en papel, o PDF estándar si lo vas a enviar de forma digital.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778166973485-q1sdfk1eh">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778166973485-q1sdfk1eh" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778166973485-q1sdfk1eh" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778166973485-q1sdfk1eh" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778166973485-q1sdfk1eh" > </div>
+                        <div id="frmCover-idevice-1778166973485-q1sdfk1eh" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778166973485-q1sdfk1eh" class="form-results-container inline">
+                        <div id="form-score-idevice-1778166973485-q1sdfk1eh" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778166973485-q1sdfk1eh" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778166973485-q1sdfk1eh" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778166973485-q1sdfk1eh" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778166973485-q1sdfk1eh" type="button" value="Reiniciar"
+                            data-id="idevice-1778166973485-q1sdfk1eh" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778166973485-q1sdfk1eh" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"><p><img src="{{context_path}}/content/resources/ChatGPT Image 27 abr 2026, 13_29_16.png" width="1350" height="900" alt="EJEMPLO" /></p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166973485-q1sdfk1eh","evaluation":false,"evaluationID":"8d00253a-2c32-485b-a763-92039c73dbd6","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778166973485-q1sdfk1eh","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Instrucciones para hacer un tríptico en Canva<br />1. Entra en Canva<br />Accede a Canva e inicia sesión con tu cuenta. Después, en la barra de búsqueda, escribe: “tríptico”, “folleto tríptico” o “brochure tríptico”. Canva ofrece plantillas editables para crear folletos y trípticos de forma sencilla.</p>\n<p>2. Elige una plantilla<br />Selecciona una plantilla que tenga formato de tríptico. Lo ideal es que sea un diseño en A4 horizontal, ya que el tríptico suele dividir una hoja en tres partes. Según Canva, el tamaño habitual de un tríptico es un A4 de 21 x 29,7 cm, dividido en tres columnas.</p>\n<p>3. Organiza las seis partes del tríptico<br />Un tríptico tiene seis caras: tres por delante y tres por detrás.</p>\n<p>Parte exterior<br />Aquí se colocan normalmente:</p>\n<p>Parte<br />Contenido recomendado<br />Portada<br />Título del trabajo, imagen principal y nombre del alumno/a<br />Solapa<br />Frase llamativa, curiosidad o pequeña introducción<br />Contraportada<br />Nombre, curso, fecha, fuentes consultadas o contacto<br />Parte interior<br />Aquí se desarrolla la información principal:</p>\n<p>Parte<br />Contenido recomendado<br />Interior 1<br />Introducción del tema<br />Interior 2<br />Información principal<br />Interior 3<br />Conclusión, propuesta final o resumen<br />4. Cambia los textos<br />Haz clic sobre los textos de la plantilla y sustitúyelos por tu propia información. Es importante escribir con frases breves, claras y ordenadas. Un tríptico no debe estar lleno de texto; debe ser visual y fácil de leer.</p>\n<p>5. Añade imágenes e iconos<br />Puedes añadir imágenes desde el apartado Elementos, Fotos o Subidos. Si tienes imágenes propias, súbelas desde tu ordenador o tablet. Canva permite arrastrar imágenes y elementos directamente al diseño.</p>\n<p>6. Cuida el diseño<br />Para que el tríptico quede bien presentado:</p>\n<p>Usa 2 o 3 colores como máximo.<br />Utiliza una letra clara.<br />No pongas demasiado texto.<br />Deja espacios en blanco.<br />Asegúrate de que las imágenes tengan buena calidad.<br />Revisa que no haya faltas de ortografía.<br />Canva recomienda dejar espacio libre para que el diseño “respire” y no resulte demasiado cargado.</p>\n<p>7. Revisa el trabajo<br />Antes de terminar, comprueba que el tríptico incluye:</p>\n<p>Elemento<br />Sí/No<br />Título claro<br /> <br />Nombre del alumno/a<br /> <br />Información bien organizada<br /> <br />Imágenes relacionadas con el tema<br /> <br />Ortografía revisada<br /> <br />Diseño limpio y ordenado<br /> <br />Fuentes de información consultadas<br /> <br />8. Descarga el tríptico<br />Cuando hayas terminado, pulsa en Compartir y después en Descargar. Elige el formato PDF para imprimir si lo vas a entregar en papel, o PDF estándar si lo vas a enviar de forma digital.</p>","questionsData":[{"id":"1778167285573-90NID","activityType":"fill","baseText":"<p>¿Qué parte de la actividad re resultó más complicada?</p>\n<p>¿Te motivó la utilización de Canva para realizar esta actividad?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 27 abr 2026, 13_29_16.png\" width=\"1350\" height=\"900\" alt=\"EJEMPLO\" /></p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778167544164-6euxz12ah</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778167544164-6euxz12ah</odePageId>
+      <odeBlockId>block-1778167545425-v2519to6d</odeBlockId>
+      <blockName>USA ESTE PADLET PARA OBTENER MÁS INFORMACIÓN PARA TU TAREA FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778167544164-6euxz12ah</odePageId>
+          <odeBlockId>block-1778167545425-v2519to6d</odeBlockId>
+          <odeIdeviceId>idevice-1778167545424-rb42c5e0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd></dd></div></dl><p><a href="https://padlet.com/anagsteacher/descubriendo-lebrija-bq2k85q23o565zkz" title="PADLET INFORMACIÓN LEBRIJA">https://padlet.com/anagsteacher/descubriendo-lebrija-bq2k85q23o565zkz</a></p>
+<p>El alumnado deberá usar este recurso y comentar las diferentes actividades que aparecen. Todos estos recursos les ayudará a concretar los contenidos de su tarea final.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778167545424-rb42c5e0p","textInfoDurationInput":"30","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd></dd></div></dl><p><a href=\"https://padlet.com/anagsteacher/descubriendo-lebrija-bq2k85q23o565zkz\" title=\"PADLET INFORMACIÓN LEBRIJA\">https://padlet.com/anagsteacher/descubriendo-lebrija-bq2k85q23o565zkz</a></p>\n<p>El alumnado deberá usar este recurso y comentar las diferentes actividades que aparecen. Todos estos recursos les ayudará a concretar los contenidos de su tarea final.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778167544164-6euxz12ah</odePageId>
+      <odeBlockId>block-1778167694704-itehz2r0k</odeBlockId>
+      <blockName>SYMBALOO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778167544164-6euxz12ah</odePageId>
+          <odeBlockId>block-1778167694704-itehz2r0k</odeBlockId>
+          <odeIdeviceId>idevice-1778167694703-pcbvfqehl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAA9BnpQQAA41_W3N64Q==" title="SYMBALOO">https://www.symbaloo.com/shared/AAAAA9BnpQQAA41_W3N64Q==</a></p>
+<p>Desde aquí podrás acceder a Canva, google, youtube y  las diferentes herraminetas útiles para la elaboración del tríptico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778167694703-pcbvfqehl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAA9BnpQQAA41_W3N64Q==\" title=\"SYMBALOO\">https://www.symbaloo.com/shared/AAAAA9BnpQQAA41_W3N64Q==</a></p>\n<p>Desde aquí podrás acceder a Canva, google, youtube y  las diferentes herraminetas útiles para la elaboración del tríptico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778597317177-cyrgjni2m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA DEL TIEMPO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA DEL TIEMPO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778597317177-cyrgjni2m</odePageId>
+      <odeBlockId>block-1778597322245-u6kli56sc</odeBlockId>
+      <blockName>LINEA DEL TIEMPO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778597317177-cyrgjni2m</odePageId>
+          <odeBlockId>block-1778597322245-u6kli56sc</odeBlockId>
+          <odeIdeviceId>idevice-1778597322243-x3oiw23s2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.tiki-toki.com/timeline/entry/2243618/DESCUBRIENDO-LEBRIJA/" title="LINEA DEL TIEMPO">https://www.tiki-toki.com/timeline/entry/2243618/DESCUBRIENDO-LEBRIJA/</a></p>
+<p>Con esta línea del tiempo podrás organizar tu trabajo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778597322243-x3oiw23s2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"GRUPOS","textTextarea":"<p><a href=\"https://www.tiki-toki.com/timeline/entry/2243618/DESCUBRIENDO-LEBRIJA/\" title=\"LINEA DEL TIEMPO\">https://www.tiki-toki.com/timeline/entry/2243618/DESCUBRIENDO-LEBRIJA/</a></p>\n<p>Con esta línea del tiempo podrás organizar tu trabajo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778597556374-uqdi104wi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778597556374-uqdi104wi</odePageId>
+      <odeBlockId>block-1778597717485-5kpydh619</odeBlockId>
+      <blockName>¿QÚE CRITERIOS ME VAN A EVALUAR?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778597556374-uqdi104wi</odePageId>
+          <odeBlockId>block-1778597717485-5kpydh619</odeBlockId>
+          <odeIdeviceId>idevice-1778597717479-hhzvdwsz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1LB3cmqI4E0g-uHl4fcMylRGYILPxDS6c3y_gNluXmqE/edit?usp=sharing" title="CRITERIOS DE EVALUACIÓN">https://docs.google.com/document/d/1LB3cmqI4E0g-uHl4fcMylRGYILPxDS6c3y_gNluXmqE/edit?usp=sharing</a></p>
+<p>En este enlace de google drive podréis observar  :</p>
+<p>1.TAREAS</p>
+<p>2.CRITERIOS DE EVALUACIÓN</p>
+<p>3.AGRUPAMIENTOS</p>
+<p>4.TIEMPO</p>
+<p>5.HERRAMIENTAS</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778597717479-hhzvdwsz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1LB3cmqI4E0g-uHl4fcMylRGYILPxDS6c3y_gNluXmqE/edit?usp=sharing\" title=\"CRITERIOS DE EVALUACIÓN\">https://docs.google.com/document/d/1LB3cmqI4E0g-uHl4fcMylRGYILPxDS6c3y_gNluXmqE/edit?usp=sharing</a></p>\n<p>En este enlace de google drive podréis observar  :</p>\n<p>1.TAREAS</p>\n<p>2.CRITERIOS DE EVALUACIÓN</p>\n<p>3.AGRUPAMIENTOS</p>\n<p>4.TIEMPO</p>\n<p>5.HERRAMIENTAS</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778597556374-uqdi104wi</odePageId>
+      <odeBlockId>block-1778597842714-b0wk3vbhe</odeBlockId>
+      <blockName>AUTOEVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778597556374-uqdi104wi</odePageId>
+          <odeBlockId>block-1778597842714-b0wk3vbhe</odeBlockId>
+          <odeIdeviceId>idevice-1778597842713-m8842mr60</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778597842713-m8842mr60" title="" href="{{context_path}}/content/resources/AUTOEVALUACIÓN.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/AUTOEVALUACIÓN.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778597842713-m8842mr60","img_0":{"img":"{{context_path}}/content/resources/AUTOEVALUACIÓN.png","thumbnail":"{{context_path}}/content/resources/AUTOEVALUACIÓN.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778599113942-azkahcy6p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778599113942-azkahcy6p</odePageId>
+      <odeBlockId>block-1778599166963-j6kjjpw9c</odeBlockId>
+      <blockName>INFOGRAFÍA GUÍA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778599113942-azkahcy6p</odePageId>
+          <odeBlockId>block-1778599166963-j6kjjpw9c</odeBlockId>
+          <odeIdeviceId>idevice-1778599166961-x80s8shq8</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778599166961-x80s8shq8" title="" href="{{context_path}}/content/resources/GUÍA DIDÁCTICA.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/GUÍA DIDÁCTICA.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778599166961-x80s8shq8","img_0":{"img":"{{context_path}}/content/resources/GUÍA DIDÁCTICA.png","thumbnail":"{{context_path}}/content/resources/GUÍA DIDÁCTICA.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778599113942-azkahcy6p</odePageId>
+      <odeBlockId>block-1778599229506-vc1rhna75</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778599113942-azkahcy6p</odePageId>
+          <odeBlockId>block-1778599229506-vc1rhna75</odeBlockId>
+          <odeIdeviceId>idevice-1778599229505-edghclmr3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>GUÍA DIDÁCTICA</p>
+<p><a href="https://docs.google.com/document/d/1LLddP_hIXhOowSiDsFqRSEQDarOzDfpO/edit?usp=sharing&amp;ouid=114065762832302724191&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1LLddP_hIXhOowSiDsFqRSEQDarOzDfpO/edit?usp=sharing&amp;ouid=114065762832302724191&amp;rtpof=true&amp;sd=true</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778599229505-edghclmr3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>GUÍA DIDÁCTICA</p>\n<p><a href=\"https://docs.google.com/document/d/1LLddP_hIXhOowSiDsFqRSEQDarOzDfpO/edit?usp=sharing&amp;ouid=114065762832302724191&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1LLddP_hIXhOowSiDsFqRSEQDarOzDfpO/edit?usp=sharing&amp;ouid=114065762832302724191&amp;rtpof=true&amp;sd=true</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778599502666-2x1nmqknh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778599502666-2x1nmqknh</odePageId>
+      <odeBlockId>block-1778599609166-9cox9y3hy</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778599502666-2x1nmqknh</odePageId>
+          <odeBlockId>block-1778599609166-9cox9y3hy</odeBlockId>
+          <odeIdeviceId>idevice-1778599609160-k68pda38o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría y licencia<br />Material elaborado por Ana Galán Silva.<br />Proyecto: Conoce tu ciudad: Lebrija.<br />Licencia: CC BY-NC-SA 4.0.<br />Uso educativo permitido citando la autoría.</p>
+<p>Uso de youtube, google imágenes, chat gpt, Canva, tiki-toki,Padlet, Symbaloo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778599609160-k68pda38o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría y licencia<br />Material elaborado por Ana Galán Silva.<br />Proyecto: Conoce tu ciudad: Lebrija.<br />Licencia: CC BY-NC-SA 4.0.<br />Uso educativo permitido citando la autoría.</p>\n<p>Uso de youtube, google imágenes, chat gpt, Canva, tiki-toki,Padlet, Symbaloo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778599502666-2x1nmqknh</odePageId>
+      <odeBlockId>block-1779213975282-prlev4cj6</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778599502666-2x1nmqknh</odePageId>
+          <odeBlockId>block-1779213975282-prlev4cj6</odeBlockId>
+          <odeIdeviceId>idevice-1779213975280-6d2sjsfaj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">DESCUBRIENDO LEBRIJA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El alumnado deberá crear como producto final un tríptico con la información de Lebrija.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Galán Silva</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">No procede</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
